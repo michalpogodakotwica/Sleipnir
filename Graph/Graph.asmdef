@@ -1,0 +1,10 @@
+{
+    "name": "Graph",
+    "references": [
+        "Sleipnir"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

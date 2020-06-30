@@ -1,0 +1,15 @@
+{
+    "name": "Graph.Editor",
+    "references": [
+        "Graph",
+        "Sleipnir",
+        "Sleipnir.Editor"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor",
+        "PS4"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
