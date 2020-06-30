@@ -1,0 +1,10 @@
+{
+    "name": "Sleipnir.Editor",
+    "references": [
+        "Sleipnir"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
